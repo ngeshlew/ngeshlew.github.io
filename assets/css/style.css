@@ -188,7 +188,7 @@ only screen and (                min-resolution: 2dppx) {
 	
 	/* logo */
     .top-content .logo {
-    	background-image: url(../img/logo@2x.png) !important; background-repeat: no-repeat !important; background-size: 200px 356px !important;
+    	background-image: url(../img/Wallet.png) !important; background-repeat: no-repeat !important; background-size: 200px 356px !important;
     }
 	
 }
