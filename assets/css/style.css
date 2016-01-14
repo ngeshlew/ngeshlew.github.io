@@ -193,10 +193,8 @@ only screen and (                min-resolution: 2dppx) {
 	
 }
 .hero{
-	font-size: 64px;
     font-size: 6.4rem;
 }
 .copyright {
-	font-size: 24px;
     font-size: 1.8rem;
 }
