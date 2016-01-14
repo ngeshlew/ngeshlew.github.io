@@ -194,7 +194,7 @@ only screen and (                min-resolution: 2dppx) {
 }
 .hero{
     font-size: 6.4rem;
-    line-height: 26.4px;
+    line-height: 6.4rem;
 }
 .copyright {
     font-size: 1.8rem;
