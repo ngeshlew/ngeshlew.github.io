@@ -49,6 +49,16 @@ h1.text-white > a, h2.text-white > a, h3.text-white > a, h4.text-white > a, h5.t
   color: #fff;
 }
 
+h1.text-yellow > a, h2.text-yellow > a, h3.text-yellow > a, h4.text-yellow > a, h5.text-yellow > a, h6.text-yellow > a,
+.h1.text-yellow > a, .h2.text-yellow > a, .h3.text-yellow > a, .h4.text-yellow > a, .h5.text-yellow > a, .h6.text-yellow > a {
+  color: #fceb30;
+}
+
+h1.text-blackish > a, h2.text-blackish > a, h3.text-blackish > a, h4.text-blackish > a, h5.text-blackish > a, h6.text-blackish > a,
+.h1.text-blackish > a, .h2.text-blackish > a, .h3.text-blackish > a, .h4.text-blackish > a, .h5.text-blackish > a, .h6.text-blackish > a {
+  color: #121212;
+}
+
 figure {
   margin-bottom: 0;
 }
