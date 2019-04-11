@@ -6,12 +6,20 @@
 /*------------------------------------
   Default Styles
 ------------------------------------*/
+@font-face {
+  font-family: 'Harmonia';
+  src: url('/assets/fonts/HarmoniaSansProCyr-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('assets/fonts/webfont.woff') format('woff'), /* Modern Browsers */
+       url('assets/fonts/HarmoniaSansProCyr-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('assets/fonts/HarmoniaSansProCyr-Regular#svgFontName') format('svg'); /* Legacy iOS */
+}
+
 html {
   font-size: 16px;
 }
 
 body {
-  font-family: "Poppins", Helvetica, Arial, sans-serif;
+  font-family: "Harmonia", sans-serif;
   color: #1e2022;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -6496,7 +6504,7 @@ svg {
   padding: 1rem;
   font-size: 0.75rem;
   font-weight: 400;
-  font-family: "Poppins", Helvetica, Arial, sans-serif;
+  font-family: "Harmonia", sans-serif;
 }
 
 .u-stats-v2__tooltip::before {
