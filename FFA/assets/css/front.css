@@ -25,7 +25,7 @@ main {
 }
 
 p {
-  color: #77838f;
+  color: #121212;
   line-height: 1.7;
 }
 
@@ -479,7 +479,7 @@ svg {
 
 /* Light */
 .u-list--light .u-list__link {
-  color: #77838f;
+  color: #121212;
 }
 
 .u-list--light .u-list__link:hover {
@@ -531,7 +531,7 @@ svg {
 
 /* Topbar Nav Link */
 .u-header__topbar-nav-link {
-  color: #77838f;
+  color: #121212;
   font-weight: 300;
   font-size: 0.875rem;
   padding-left: 0.5rem;
@@ -2702,7 +2702,7 @@ svg {
 /* secondary badge */
 .u-badge-secondary {
   color: #fff;
-  background: #77838f;
+  background: #121212;
 }
 
 /* success badge */
@@ -2757,7 +2757,7 @@ svg {
 /* secondary badge */
 .u-badge-border-secondary {
   color: #fff;
-  background: #77838f;
+  background: #121212;
   border-color: #fff;
 }
 
@@ -3114,14 +3114,14 @@ svg {
 
 /* secondary air */
 .u-btn-secondary--air {
-  color: #77838f;
+  color: #121212;
   background: rgba(119, 131, 143, 0.1);
   border-color: transparent;
 }
 
 .u-btn-secondary--air:hover, .u-btn-secondary--air:focus, .u-btn-secondary--air:active, .u-btn-secondary--air.active {
   color: #fff;
-  background: #77838f;
+  background: #121212;
   box-shadow: 0 4px 17px rgba(119, 131, 143, 0.35);
 }
 
@@ -3344,7 +3344,7 @@ svg {
 
 /* secondary text button */
 .u-btn-text-secondary {
-  color: #77838f;
+  color: #121212;
   background: transparent;
 }
 
@@ -3676,7 +3676,7 @@ svg {
 }
 
 .u-unfold-wrapper {
-  color: #77838f;
+  color: #121212;
   font-weight: 300;
   font-size: 0.875rem;
 }
@@ -3907,7 +3907,7 @@ svg {
 
 .u-cubeportfolio .cbp-l-loadMore-stop {
   pointer-events: none;
-  color: #77838f;
+  color: #121212;
 }
 
 .u-cubeportfolio .cbp-caption-zoom .cbp-caption-activeWrap {
@@ -3981,8 +3981,8 @@ svg {
 /* secondary */
 .u-icon-secondary {
   color: #fff;
-  background-color: #77838f;
-  border-color: #77838f;
+  background-color: #121212;
+  border-color: #121212;
 }
 
 .u-icon-secondary[href]:hover {
@@ -3992,8 +3992,8 @@ svg {
 }
 
 .u-icon-secondary.disabled, .u-icon-secondary:disabled {
-  background-color: #77838f;
-  border-color: #77838f;
+  background-color: #121212;
+  border-color: #121212;
 }
 
 /* success */
@@ -4228,13 +4228,13 @@ svg {
 
 /* secondary air */
 .u-icon-secondary--air {
-  color: #77838f;
+  color: #121212;
   background: rgba(119, 131, 143, 0.1);
 }
 
 .u-icon-secondary--air[href]:hover, .u-icon-secondary--air[href]:focus, .u-icon-secondary--air[href]:active {
   color: #fff;
-  background: #77838f;
+  background: #121212;
 }
 
 /* success air */
@@ -4381,15 +4381,15 @@ svg {
 
 /* secondary */
 .u-icon-brd-secondary {
-  color: #77838f;
+  color: #121212;
   background: transparent;
-  border-color: #77838f;
+  border-color: #121212;
 }
 
 .u-icon-brd-secondary[href]:hover, .u-icon-brd-secondary[href]:focus, .u-icon-brd-secondary[href]:active {
   color: #fff;
-  background: #77838f;
-  border-color: #77838f;
+  background: #121212;
+  border-color: #121212;
 }
 
 /* success */
@@ -5351,13 +5351,13 @@ svg {
 
 /* label secondary */
 .u-label--secondary {
-  color: #77838f;
+  color: #121212;
   background-color: rgba(119, 131, 143, 0.1);
 }
 
 .u-label--secondary[href]:hover, .u-label--secondary[href]:focus {
   color: #fff;
-  background-color: #77838f;
+  background-color: #121212;
 }
 
 /* label success */
@@ -5930,7 +5930,7 @@ svg {
 }
 
 .u-pricing-v1__content .disabled .u-icon {
-  color: #77838f;
+  color: #121212;
   background-color: rgba(119, 131, 143, 0.1);
 }
 
@@ -5939,7 +5939,7 @@ svg {
 }
 
 .u-pricing-v1 .disabled {
-  color: #77838f;
+  color: #121212;
 }
 
 /*------------------------------------
@@ -6009,7 +6009,7 @@ svg {
 
 .u-quantity__arrows-inner {
   display: block;
-  color: #77838f;
+  color: #121212;
   cursor: pointer;
 }
 
@@ -6441,7 +6441,7 @@ svg {
 }
 
 .u-slick--pagination-testimonials-v1 .slick-center .u-slick--pagination-testimonials-v1__text {
-  color: #77838f;
+  color: #121212;
 }
 
 /*------------------------------------
@@ -6486,7 +6486,7 @@ svg {
 }
 
 .u-stats-v2__tooltip {
-  color: #77838f;
+  color: #121212;
   background-color: #fff;
   border-radius: 0.25rem;
   box-shadow: 0 6px 15px 1px rgba(140, 152, 164, 0.2);
@@ -7417,7 +7417,7 @@ svg {
 }
 
 .u-card-body {
-  color: #77838f;
+  color: #121212;
 }
 
 @media (min-width: 768px) {
