@@ -5,7 +5,7 @@ function generator() {
 	var third = ["Early exit strategy", "Pay-what-you-want", "Freemium model", "Commission-based model", "Auction model", "Advertisement model", "Affiliate fee", "Get-one-give-one model", "Franchise model", "Subscription model", "Pay-per-use model", "License fees", "Single purchase model", "Pay-as-you-go model", "Razor and blade model", "Crowdfunding", "Open source model", "No frills model"];
 	
 	// generate idea
-	var idea = "Our new opportunity is disrupting the " + first[Math.floor(Math.random() * first.length)] + " industry when our solution will " + second[Math.floor(Math.random() * second.length)] + " and we will make money by using  " + third[Math.floor(Math.random() * third.length)] + " as a business model.";
+	var idea = "In the " + first[Math.floor(Math.random() * first.length)] + " industry, we " + second[Math.floor(Math.random() * second.length)] + " and use  " + third[Math.floor(Math.random() * third.length)] + " to generate revenue.";
 
 	//alert(name);
 
