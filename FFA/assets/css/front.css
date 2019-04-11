@@ -5362,8 +5362,8 @@ svg {
 
 /* label success */
 .u-label--success {
-  color: #00c9a7;
-  background-color: rgba(0, 201, 167, 0.1);
+  color: #000000;
+  background-color: rgb(252, 235, 48);
 }
 
 .u-label--success[href]:hover, .u-label--success[href]:focus {
