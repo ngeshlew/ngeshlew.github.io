@@ -74,6 +74,9 @@ figure {
 svg {
   margin-bottom: -0.4375rem;
 }
+.darkmode-layer, .darkmode-toggle {
+  z-index: 500;
+}
 
 /*------------------------------------
   Highlight Color
