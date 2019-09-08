@@ -41,3 +41,9 @@ I need to spend an hour a day reading!
 ## Track your reading
 [How to Use Your Notebook to Track Your Reading](https://medium.com/the-1000-day-mfa/how-to-use-your-notebook-to-track-your-reading-80371afa48b8)
 [Goodreads](https://www.goodreads.com)
+
+## Logo Generator
+[Shopify](https://hatchful.shopify.com/)
+
+## Favicon Generator
+[Favicon Generator. For real.](https://realfavicongenerator.net/)
