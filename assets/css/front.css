@@ -77,6 +77,9 @@ svg {
 .darkmode-layer, .darkmode-toggle {
   z-index: 500;
 }
+.darkmode-toggle {
+        background: #fbeb31;
+}
 
 /*------------------------------------
   Highlight Color
