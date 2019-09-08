@@ -1,7 +1,7 @@
 {
   "name": "Ngeshlew",
   "version": "1.0.0",
-  "description": "Ngeshlew - Responsive Website Template",
+  "description": "Ngeshlew",
   "main": "gulpfile.js",
   "directories": {
     "doc": "doc"
