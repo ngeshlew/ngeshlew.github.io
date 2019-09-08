@@ -14,7 +14,6 @@ function generator() {
 				"The Making of a Manager: What to Do When Everyone Looks to You by Julie Zhuo | Leadership | 288 pages | 6 hours 45 minutes to read", 
 				"Mere Christianity by C.S. Lewis | Christian | 227 pages | 5 hours 14 minutes to read"];
 	
-	// [Math.floor(Math.random() * first.length)] returns a random integer from Travel to Writing and Editing
 	var book = "The book is " + list[Math.floor(Math.random() * list.length)] + " and see you when you finish this one!";
 
 	// getElementById returns the element that has the ID attribute with the specified value.
