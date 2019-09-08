@@ -5373,7 +5373,7 @@ svg {
 
 /* label success */
 .u-label--success {
-  color: #000000;
+  color: #fff;
   background-color: rgb(0, 172, 181);
 }
 
