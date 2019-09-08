@@ -1,6 +1,18 @@
 function generator() {
 	// word lists
-	var list = ["Travel", "Banking", "Business Supplies and Equipment", "Chemicals", "Commercial Real Estate", "Computer Games", "Consumer Electronics", "Dairy", "Defense & Space", "Design", "Farming", "Higher Education", "Investment Banking", "Legal Services", "Market Research", "Media Production", "Mining & Metals", "Newspapers", "Pharmaceuticals", "Research", "Retail", "Think Tanks", "Utilities", "Writing and Editing"];
+	var list = ["Behavioral Economics: The Bank's Secret Weapon by  Jeff Kreisler,  Dan Ariely | Behavioral Economics | 32 pages", 
+				"UX Design For Startups by Marcin Treder,  UXpin | UX | 127 pages", 
+				"Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation by Tim Brown | Design Thinking | 272 pages | 6 hours 49 minutes to read", 
+				"Creative Confidence: Unleashing the Creative Potential Within Us All by Tom Kelley, David Kelley | Creativity | 288 pages | 6 hours 23 minutes to read", 
+				"Lean Analytics: Use Data to Build a Better Startup Faster by Alistair Croll, Benjamin Yoskovitz | Analytics | 440 pages | 11 hours 19 minutes to read", 
+				"Predictably Irrational: The Hidden Forces That Shape Our Decisions by Dan Ariely | Psychology | 400 pages | 6 hours 36 minutes to read.", 
+				"Just Enough Research by Erika Hall | UX Research | 154 pages | 3 hours 58 minutes to read", 
+				"The User Experience Team of One: A Research and Design Survival Guide by Leah Buley | UX | 264 pages | 6 hours 47 minutes to read.", 
+				"The Design of Everyday Things by Don Norman | Design Thinking | 240 pages | 9 hours 32 minutes to read", 
+				"Intercom on Onboarding by Des Traynor | Onboarding | 108 pages | 3 hours 5 minutes to read.", 
+				"Homo Deus: A History of Tomorrow by Yuval Noah Harari | Philosophy | 450 pages | 13 hours 20 minutes to read", 
+				"The Making of a Manager: What to Do When Everyone Looks to You by Julie Zhuo | Leadership | 288 pages | 6 hours 45 minutes to read", 
+				"Mere Christianity by C.S. Lewis | Christian | 227 pages | 5 hours 14 minutes to read"];
 	var Time = ["Bring an offline behaviour online", "Make it a rental", "Make it cheaper", "Create a marketplace", "Create original or exclusive content", "Simplify a process", "Make it a service / on demand", "Make it mobile native", "Remove features to launch a simpler product", "Target specific segment", "Create a full stack offering", "Build a community", "Make it peer-to-peer", "Target an emerging market", "Make an intermediary layer", "Remove a middleman", "Apply blockchain", "Democratise something expensive", "Look at startups in other markets"];
 	
 	// [Math.floor(Math.random() * first.length)] returns a random integer from Travel to Writing and Editing
