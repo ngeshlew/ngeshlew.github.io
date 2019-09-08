@@ -3039,7 +3039,7 @@ svg {
 ------------------------------------*/
 /* primary button :hover, :focus, :active effects */
 .u-btn-primary:hover, .u-btn-primary:focus, .u-btn-primary:active {
-  box-shadow: 0 4px 17px rgba(255, 0, 255, 0.37);
+  box-shadow: 0 4px 17px rgba(246, 213, 92, 0.37);
 }
 
 /* secondary button :hover, :focus, :active effects */
