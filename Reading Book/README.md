@@ -15,6 +15,9 @@
 ## My little set of review
 [Goodreads](https://www.goodreads.com/user/show/28417716-lewis-kang-ethe-ngugi)
 
+## Number of days till end of year
+[Count down to the New Year](https://www.timeanddate.com/countdown/generic?p0=16&iso=20191231T0704&msg=PENSIOEN)
+
 ## Time to read my books
 [Medium: MISSION.ORG](https://medium.com/the-mission/how-to-read-50-books-per-year-without-really-trying-even-if-youre-a-super-slow-reader-56d65191c3)
 2019 was supposed to be 30 books. So time needed to read after doing the WPM test:
@@ -25,7 +28,7 @@
 155 hours / 365 days = 26.4 minutes per day
 ```
 
-Now that I've done only 10 books
+Now that I've done only 10 books 
 ```
 20 books x 50,000 words/book = 1 million words
 1 million words / 162 WPM = 6173 minutes
