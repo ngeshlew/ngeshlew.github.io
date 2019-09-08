@@ -10,4 +10,31 @@
 [Airtable](https://airtable.com/universe/expqM3OWZoJkjl7wy/the-monster-list-of-ux-books?explore=true)
 
 ## Writing a ReadMe
-[Make a README(https://www.makeareadme.com/)
+[Make a README](https://www.makeareadme.com/)
+
+## My little set of review
+[Goodreads](https://www.goodreads.com/user/show/28417716-lewis-kang-ethe-ngugi)
+
+## Time to read my books
+[Medium: MISSION.ORG](https://medium.com/the-mission/how-to-read-50-books-per-year-without-really-trying-even-if-youre-a-super-slow-reader-56d65191c3)
+2019 was supposed to be 30 books. So time needed to read after doing the WPM test:
+```
+30 books x 50,000 words/book = 1.5 million words
+1.5 million words / 162 WPM = 9260 minutes
+9260 minutes / 60 each hour = 155 hours
+155 hours / 365 days = 26.4 minutes per day
+```
+
+Now that I've done only 10 books
+```
+20 books x 50,000 words/book = 1 million words
+1 million words / 162 WPM = 6173 minutes
+6173 minutes / 60 each hour = 102 hours
+102 hours / 113 days = 54.6 minutes per day
+```
+
+I need to spend an hour a day reading!
+
+## Track your reading
+[How to Use Your Notebook to Track Your Reading](https://medium.com/the-1000-day-mfa/how-to-use-your-notebook-to-track-your-reading-80371afa48b8)
+[Goodreads](https://www.goodreads.com)
