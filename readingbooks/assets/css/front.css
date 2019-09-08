@@ -4234,7 +4234,7 @@ svg {
 
 .u-icon-primary--air[href]:hover, .u-icon-primary--air[href]:focus, .u-icon-primary--air[href]:active {
   color: #fff;
-  background: #121212;
+  background: rgb(0, 172, 181);
 }
 
 /* secondary air */
