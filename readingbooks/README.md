@@ -47,3 +47,6 @@ I need to spend an hour a day reading!
 
 ## Favicon Generator
 [Favicon Generator. For real.](https://realfavicongenerator.net/)
+
+## Credits
+Photo by Sophia Baboolal on (Unsplash)[https://unsplash.com/photos/rMYrkFfw36U]
