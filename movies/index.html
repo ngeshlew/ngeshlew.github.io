@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Title -->
+  <title>What Triology for the Date Night? | Ngeshlew</title>
+
+  <!-- Required Meta Tags Always Come First -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="favicon.ico">
+
+  <!-- Google Fonts -->
+  <link href="//fonts.googleapis.com/css?family=Poppins:300,400,500,600" rel="stylesheet">
+
+  <!-- CSS Global Compulsory -->
+  <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap.css">
+
+  <!-- CSS Implementing Plugins -->
+  <link rel="stylesheet" href="assets/vendor/font-awesome/css/fontawesome-all.min.css">
+
+  <!-- CSS Ngeshlew Template -->
+  <link rel="stylesheet" href="assets/css/front.css">
+</head>
+
+<body>
+
+  <!-- ========== HEADER ========== -->
+  <header id="header" class="u-header u-header--bg-transparent u-header--abs-top mt-3">
+    <div class="u-header__section">
+      <div class="container">
+        <!-- Nav -->
+        <nav class="navbar navbar-expand u-header__navbar py-2">
+          <!-- Logo -->
+          <a class="navbar-brand u-header__navbar-brand" href="/" aria-label="Ngeshlew">
+            <img src="assets/svg/logos/logo.png" alt="Logo" width="150px">
+          </a>
+          <!-- End Logo -->
+        </nav>
+        <!-- End Nav -->
+      </div>
+    </div>
+  </header>
+  <!-- ========== END HEADER ========== -->
+
+  <!-- ========== MAIN ========== -->
+  <main id="content" role="main">
+    <!-- Hero Section -->
+    <div class="container u-space-4-top u-space-2-bottom u-space-0--lg">
+      <div class="row align-items-lg-center min-height-100vh">
+        <!-- SVG Icon -->
+        <div class="col-lg-6">
+          <img src="assets/svg/flat-icons/Illustration-background.jpg" alt="Illustration" width="100%">
+        </div>
+        <!-- End SVG Icon -->
+
+        <div class="col-lg-6">
+          <div class="pl-lg-4">
+            <!-- Title -->
+            <div class="mb-4">
+              <h1 class="text-blackish font-weight-normal">Movie &#x1F4DA; <span class="font-weight-bold">Triology </span><span class="text-yellow"></span></h1>
+
+              <p>Now reading &#x1F9E0; <a href="http://amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675/" target="_blank"><b>Lean Analytics: Use data to build a better startup faster</b></a></p>
+              <p>Test your reading speed: &#x1F449;&#x1F3FD; <a href="https://www.readinglength.com/wpm" target="_blank"><b>Take Test</b></a></p>
+              <p>Ready for the next ink adventure?  &#x1F941;</p>
+            </div>
+            <!-- End Title -->
+
+
+            <!-- Form -->
+            <div class="w-lg-60 w-xl-50">
+              <div class="mb-6">
+            <a 
+            class="btn btn-sm btn-primary u-btn-primary text-white transition-3d-hover"
+             onclick="generator()"
+            >What's the next chapter? &#x1F389;</a>
+          </div>
+          </div>
+            <!-- End Form -->
+            <!-- Title -->
+          <div class="w-lg-100 w-xl-100">
+            <div class="mb-6">
+            <span class="u-label u-label--lg u-label--success mb-2 w-sm-auto w-md-auto w-lg-auto w-xl-auto">
+              <b><i><div id="placeholder"></div></i></b>
+            </span>
+          </div>
+          </div>
+          <!-- End Title -->
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <!-- End Hero Section -->
+  </main>
+  <!-- ========== END MAIN ========== -->
+
+  <!-- ========== FOOTER ========== -->
+  <footer class="position-absolute-bottom-0--lg">
+    <div class="container">
+      <div class="d-flex justify-content-between align-items-center u-space-1">
+        <!-- Copyright -->
+        <p class="small text-muted mb-0">&copy; Ngeshlew. 2019 SlowRead</p>
+        <!-- End Copyright -->
+
+        <!-- Social Networks -->
+        <ul class="list-inline mb-0">
+          <li class="list-inline-item">
+            <a class="u-bg-transparent u-icon u-icon-secondary--air" href="https://www.twitter.com/ngeshlew">
+              <span class="fab fa-twitter u-icon__inner"></span>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="u-bg-transparent u-icon u-icon-secondary--air" href="https://github.com/ngeshlew">
+              <span class="fab fa-github u-icon__inner"></span>
+            </a>
+          </li>
+        </ul>
+        <!-- End Social Networks -->
+      </div>
+    </div>
+  </footer>
+  <!-- ========== END FOOTER ========== -->
+
+  <!-- JS Global Compulsory -->
+  <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+  <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
+  <script src="assets/vendor/popper.js/dist/umd/popper.min.js"></script>
+  <script src="assets/vendor/bootstrap/bootstrap.min.js"></script>
+
+  <!-- JS Implementing Plugins -->
+  <script src="assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
+  <script src="assets/vendor/jquery.countdown.min.js"></script>
+
+  <!-- JS Ngeshlew -->
+  <script src="assets/js/hs.core.js"></script>
+  <script src="assets/js/components/hs.validation.js"></script>
+  <script src="assets/js/helpers/hs.focus-state.js"></script>
+  <script src="assets/js/generator.js"></script>
+
+  <!-- JS Plugins Init. -->
+  <script>
+    $(document).on('ready', function () {
+      // initialization of form validation
+      $.HSCore.components.HSValidation.init('.js-validate');
+
+      // initialization of forms
+      $.HSCore.helpers.HSFocusState.init();
+
+      // initialization of countdowns
+      var countdowns = $.HSCore.components.HSCountdown.init('.js-countdown', {
+        yearsElSelector: '.js-cd-years',
+        daysElSelector: '.js-cd-days',
+        hoursElSelector: '.js-cd-hours',
+        minutesElSelector: '.js-cd-minutes',
+        secondsElSelector: '.js-cd-seconds'
+      });
+    });
+  </script>
+</body>
+</html>
