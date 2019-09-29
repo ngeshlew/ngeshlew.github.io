@@ -3039,7 +3039,7 @@ svg {
 ------------------------------------*/
 /* primary button :hover, :focus, :active effects */
 .u-btn-primary:hover, .u-btn-primary:focus, .u-btn-primary:active {
-  box-shadow: 0 4px 17px rgba(246, 213, 92, 0.37);
+  box-shadow: 0 4px 17px rgba(241, 132, 33, 0.37);
 }
 
 /* secondary button :hover, :focus, :active effects */
@@ -4234,7 +4234,7 @@ svg {
 
 .u-icon-primary--air[href]:hover, .u-icon-primary--air[href]:focus, .u-icon-primary--air[href]:active {
   color: #fff;
-  background: rgb(0, 172, 181);
+  background: rgb(89, 79, 139);
 }
 
 /* secondary air */
@@ -5374,7 +5374,7 @@ svg {
 /* label success */
 .u-label--success {
   color: #fff;
-  background-color: rgb(0, 172, 181);
+  background-color: rgb(89, 79, 139);
 }
 
 .u-label--success[href]:hover, .u-label--success[href]:focus {
